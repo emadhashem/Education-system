@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1668620650 source:e:\csstuff\c++ content\education system\person.cpp
+	"person.h"
+	<bits/stdc++.h>
+
+1668620597 e:\csstuff\c++ content\education system\person.h
+	<iostream>
+	<string>
+
+1668621631 source:e:\csstuff\c++ content\education system\main.cpp
+	<iostream>
+	"course.h"
+
+1668621555 e:\csstuff\c++ content\education system\course.h
+	<string>
+
+1668621658 source:e:\csstuff\c++ content\education system\course.cpp
+	"course.h"
+	<iostream>
+	<string>
+
